@@ -4,9 +4,9 @@
 
 ### World Layout
 
-![Top view](/image/world_top.jpg)
+![Top view](/image/world2_top.jpg)
 
-![Perspective view](/image/world_perspective.jpg)
+![Perspective view](/image/world2_perspective.jpg)
 
 ### Robot Layout
 
@@ -35,9 +35,9 @@
     $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:${PWD}
     ```
 
-3. Load the world from Gazebo
+3. Load the `Library` world from Gazebo
 
     ``` shell
     $ cd ../world
-    $ gazebo UdacityOffice.world
+    $ gazebo Library.world
     ```
